@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: pivx_quark_hash
+Version: 1.2
+Summary: Binding for PIVX quark proof of work hashing.
+Home-page: https://github.com/gpdionisio/pivx_quark_hash
+Download-URL: https://github.com/gpdionisio/pivx_quark_hash/archive/v1.2.tar.gz
+Author: gpdionisio
+Author-email: gianpiero.dionisio@protonmail.ch
+License-File: LICENSE
+
